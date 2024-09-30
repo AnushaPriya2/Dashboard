@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <quickActions>
+        <label><!-- Create Account --></label>
+        <name>Create_Account</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Data Table --></label>
+        <name>Data_Table</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Delete Lost Opportunity --></label>
+        <name>Delete_Lost_Opportunity</name>
+    </quickActions>
+</CustomObjectTranslation>
